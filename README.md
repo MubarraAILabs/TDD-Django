@@ -45,7 +45,7 @@ python manage.py migrate
 
 # 5️⃣ Run the development server
 python manage.py runserver
-
+```bash
 
 # Running Tests
 
