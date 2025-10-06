@@ -47,16 +47,16 @@ python manage.py migrate
 python manage.py runserver
 
 
-## Running Tests
+# Running Tests
 
 To run all tests and verify your code works as expected:
 - python manage.py test
 
-## Acknowledgements
+# Acknowledgements
 
 Huge thanks to [Ssali Jonathan](https://www.youtube.com/playlist?list=PLEt8Tae2spYlWWMN5azuYjvoItXDkQ1DQ) for his clear and insightful TestDrivenDjango tutorial.Following his work made learning Django testing both practical and enjoyable.
 
-## My Learnings
+# My Learnings
 
 - How to build Django apps using TDD principles
 
