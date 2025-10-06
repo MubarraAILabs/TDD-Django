@@ -1,7 +1,7 @@
 #  Test Driven Development - Django
 
 A simple Django blog application built using **Test-Driven Development (TDD)** principles.  
-This project was created by following the **TestDrivenDjango** tutorial by [Ssali Jonathan] 
+This project was created by following the **TestDrivenDjango** tutorial by Ssali Jonathan.
 It helped me deeply understand how to write clean, maintainable, and well-tested Django code.
 
 ---
@@ -45,7 +45,7 @@ python manage.py migrate
 
 # 5️⃣ Run the development server
 python manage.py runserver
-```bash
+```
 
 # Running Tests
 
@@ -54,7 +54,7 @@ To run all tests and verify your code works as expected:
 
 # Acknowledgements
 
-Huge thanks to [Ssali Jonathan](https://www.youtube.com/playlist?list=PLEt8Tae2spYlWWMN5azuYjvoItXDkQ1DQ) for his clear and insightful TestDrivenDjango tutorial.Following his work made learning Django testing both practical and enjoyable.
+Huge thanks to [Ssali Jonathan](https://www.youtube.com/playlist?list=PLEt8Tae2spYlWWMN5azuYjvoItXDkQ1DQ). for his clear and insightful TestDrivenDjango tutorial.Following his work made learning Django testing both practical and enjoyable.
 
 # My Learnings
 
